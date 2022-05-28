@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
- 😄 안뇽 <br>
+
+ 😄 할로! <br>
  🌱 I’m currently learning Kotlin & Android Programming
-</div>
+<br><br><br><br>
   
-<div align=center><h2>💻 what I've learned</h2></div>
-<div align=center> 
+<h2>💻 what I've learned</h2>
+<div> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=black">
@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black">
 <br>
 </div>
+<br><br><br><br>
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact)](https://github.com/DebbieIsFree/github-readme-stats)
