@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/)
 
