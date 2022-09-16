@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj="DebbieIsFree")](https://solved.ac/DebbieIsFree/)
 
-
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={DebbieIsFree})](https://solved.ac/{DebbieIsFree})
 
 
 
