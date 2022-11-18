@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
  😄 할로! <br>
- 🌱 
+ 🌱 안녕하세요 꾸뻑
 <br><br><br><br>
   
 <h2>💻 what I've learned</h2>
