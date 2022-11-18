@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black">
 <br>
 </div>
-<br><br><br><br>
+<br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact)](https://github.com/DebbieIsFree/github-readme-stats)
 
