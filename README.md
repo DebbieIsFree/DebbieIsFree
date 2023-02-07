@@ -49,7 +49,9 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact)](https://github.com/DebbieIsFree/github-readme-stats)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409)
+
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/) -->
 
