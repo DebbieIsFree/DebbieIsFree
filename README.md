@@ -39,4 +39,4 @@
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/) -->
 
-![DebbieIsFree's github stats](https://github-readme-stats.vercel.app/api?username=DebbieIsFree&show_icons=true)
+<!-- ![DebbieIsFree's github stats](https://github-readme-stats.vercel.app/api?username=DebbieIsFree&show_icons=true) -->
