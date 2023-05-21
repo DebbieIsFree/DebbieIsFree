@@ -1,6 +1,3 @@
-<div align=center><h1> Hi there 👋 </h1></div>
-<br><br>
-
 <h2>💻 what I've learned</h2>
 <div> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
