@@ -1,25 +1,6 @@
 <div align=center><h1> Hi there 👋 </h1></div>
+<br><br>
 
-<!--
-**wldnjs980409/wldnjs980409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
- 😄 할로! <br>
- 🌱 안녕하세요 꾸뻑
-<br><br><br>
-  
 <h2>💻 what I've learned</h2>
 <div> 
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
@@ -51,9 +32,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact)](https://github.com/DebbieIsFree/github-readme-stats)
 
+<!-- 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409)
-
+ -->
 
 <!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/) -->
 
