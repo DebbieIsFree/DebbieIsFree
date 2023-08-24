@@ -20,6 +20,9 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black">
 <br>
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact&theme=tokyonight)
+
+
 
 <!-- 
 [![Solved.ac
