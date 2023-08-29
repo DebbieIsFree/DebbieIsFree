@@ -14,10 +14,12 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
 <b>Backend</b><br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black">
-<img src="https://img.shields.io/badge/graphQL-E10098?style=for-the-badge&logo=graphQL&logoColor=black">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=black">
+
+<!-- <img src="https://img.shields.io/badge/graphQL-E10098?style=for-the-badge&logo=graphQL&logoColor=black"> -->
+<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black"> -->
 <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact)
