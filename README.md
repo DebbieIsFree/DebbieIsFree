@@ -21,18 +21,3 @@
 <!-- <img src="https://img.shields.io/badge/graphQL-E10098?style=for-the-badge&logo=graphQL&logoColor=black"> -->
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black"> -->
 <br>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DebbieIsFree&layout=compact)
-
-
-
-<!-- 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409)
- -->
-
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=wldnjs980409)](https://solved.ac/wldnjs980409/)
--->
-
-<!-- ![DebbieIsFree's github stats](https://github-readme-stats.vercel.app/api?username=DebbieIsFree&show_icons=true) -->
