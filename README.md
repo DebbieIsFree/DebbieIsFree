@@ -1,5 +1,3 @@
-<h2>💻 what I've learned</h2>
-<div> 
 
 <b>Language</b><br>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
