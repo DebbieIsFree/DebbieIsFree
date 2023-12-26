@@ -21,4 +21,3 @@
 
 <!-- <img src="https://img.shields.io/badge/graphQL-E10098?style=flat&logo=graphQL&logoColor=black"> -->
 <!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=black"> -->
-<br>
