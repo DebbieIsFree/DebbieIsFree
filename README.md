@@ -5,7 +5,6 @@
 <br>
 
 <b>Frontend</b><br>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=black">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
 
 <b>Backend</b><br>
