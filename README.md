@@ -2,6 +2,7 @@
 <b>Language</b><br>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=black">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=black">
 <br>
 
 <b>Frontend</b><br>
